@@ -33,7 +33,6 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Sprite.Exps.ImagePointY,
 		C3.Plugins.Sprite.Acts.ZMoveToObject,
 		C3.Plugins.video.Acts.Pause,
-		C3.Plugins.video.Acts.SetPlaybackRate,
 		C3.Behaviors.DragnDrop.Cnds.OnDrop,
 		C3.Plugins.Sprite.Cnds.IsOverlapping,
 		C3.Plugins.Sprite.Cnds.IsBoolInstanceVarSet,
